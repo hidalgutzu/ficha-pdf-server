@@ -3,9 +3,7 @@ nixPkgs = [
   "chromium",
   "nss",
   "freetype",
-  "harfbuzz",
-  "ca-certificates",
-  "ttf-opensans"
+  "harfbuzz"
 ]
 
 [variables]
